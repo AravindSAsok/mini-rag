@@ -16,8 +16,8 @@ if str(SRC_DIR) not in sys.path:
 from main import DEFAULT_DATA_DIR, ResearchAssistant  # noqa: E402
 
 
-st.set_page_config(page_title="Mini RAG Assistant", page_icon="🔎")
-st.title("Mini RAG Assistant")
+st.set_page_config(page_title="RAG Assistant, Cookie", page_icon="🍪")
+st.title("RAG Assistant, Cookie")
 st.write(
     "Ask a question about the documents in the `data` folder. "
     "This demo finds and displays the most relevant passages; it does not "

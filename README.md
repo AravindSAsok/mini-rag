@@ -1,4 +1,4 @@
-# Mini RAG Assistant
+# RAG Assistant, Cookie
 
 A beginner-friendly document retrieval demo. Ask a question in the browser and see which passages from the knowledge base are most relevant.
 
