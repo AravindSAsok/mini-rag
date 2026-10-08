@@ -1,0 +1,201 @@
+EXO REFERENCE KNOWLEDGE BASE
+Research cutoff: 8 October 2026
+
+SCOPE AND UPDATE RULES
+This reference summarizes researched, factual information about the South Korean music group EXO: history, member history, albums, subunits, Japanese releases, awards, tours, selected solo work, military service, and legal developments. It is written in short, retrieval-friendly passages for the existing Mini-RAG system. It does not attempt to reproduce the entire internet, discography metadata databases, song lyrics, or fan discussions.
+
+Time-sensitive statements are dated. A historical group roster, a member's contract arrangement, and the participants in one album or concert are different facts. Announcements are described as announcements; they are not evidence that a later event occurred exactly as announced. Allegations are attributed to the reporting source or party, and preliminary court orders are not final judgments.
+
+Sources: EXO Japan official profile https://www.exo-jp.net/en/profile/ ; KBS World artist profile https://world.kbs.co.kr/service/contents_view.htm?board_seq=352301&lang=e&menu_cate=artist ; Yonhap on REVERXE https://en.yna.co.kr/view/AEN20260119002200315
+
+IDENTITY AND DEBUT
+EXO is a K-pop group formed by SM Entertainment. Its name derives from “exoplanet” and the group has explained it as meaning a new star from an unknown world. Space imagery and individual superpowers are recurring fictional elements of the group's promotional concept and music-video storytelling.
+
+EXO's Korean and Chinese debut was on 8 April 2012, when EXO-K and EXO-M released the single “MAMA” and made their debut-stage appearances. The full MAMA mini-album followed on 9 April in Korean and Mandarin versions. This April 2012 debut is distinct from EXO's Japanese debut in November 2015. Initially, EXO-K promoted mainly in Korean and EXO-M mainly in Mandarin as two teams under the EXO name.
+
+The original team had twelve members. EXO-K was Suho, Baekhyun, Chanyeol, D.O., Kai, and Sehun. EXO-M was Xiumin, Lay, Chen, Kris, Luhan, and Tao. The parallel Korean and Mandarin unit arrangement later gave way to EXO primarily promoting as one group.
+
+The fictional EXO concept uses planetary origins, powers, symbols, and an opposing force in music videos and album visuals. These are story devices, not real biographies. Fans may develop theories about how symbols relate, but a fan interpretation should not be stated as confirmed official canon unless an official release or statement supports it.
+
+Sources: KBS World artist profile https://world.kbs.co.kr/service/contents_view.htm?board_seq=352301&lang=e&menu_cate=artist ; Apple Music MAMA single https://music.apple.com/us/album/mama-single/854929581 ; EXO Japan official profile https://www.exo-jp.net/en/profile/ ; Soompi debut report https://www.soompi.com/article/373042wpp/exo-debuting-on-april-8-in-korea-and-china
+
+MEMBER HISTORY AND LINEUP EDGE CASES
+After Kris, Luhan, and Tao stopped group activities, the remaining EXO members were Xiumin, Suho, Lay, Baekhyun, Chen, Chanyeol, D.O. (Doh Kyung-soo), Kai, and Sehun. These nine form the post-departure historical roster commonly meant by “the EXO members.” This roster does not mean all nine participated in every later recording, tour, company activity, or public event.
+
+Kris, Luhan, and Tao were the three original members who pursued legal action against SM and stopped regular EXO group activities. Their cases unfolded over several years, so lawsuit filing, absence from promotions, settlement, and final contract rulings do not all share a single date. When a question asks when one member “left,” clarify which event is meant.
+
+Lay is a Chinese singer, producer, and actor. He remained part of EXO's historical nine-member roster and participated in some later releases, including “Tempo” (Chinese edition) and the 2021 special album. His SM contract ended in 2022, and his solo career has focused on China. Lay participated in the 2026 album REVERXE. Contract status, physical presence at a promotion, and membership in a historical lineup should not be treated as synonyms.
+
+An EXO-L-JAPAN notice in January 2024 described eight members as continuing EXO group activities through SM while individual activities were managed separately. Later releases and events had their own lineups: six members participated in REVERXE in 2026, while a 2026 Seoul concert notice named five participants. These dated facts do not redefine EXO's historical roster. Chen, Baekhyun, and Xiumin were not included in those 2026 activities amid their contract dispute with SM.
+
+Suho is EXO's leader. Members have pursued singing, dance, rap, acting, producing, musical theatre, and variety work. Titles such as “main vocalist” or “main dancer” are frequently used in fan and media profiles; do not treat every role label as a permanent official designation unless a reliable official source specifies it.
+
+Sources: KBS World https://world.kbs.co.kr/service/contents_view.htm?board_seq=352301&lang=e&menu_cate=artist ; EXO-L-JAPAN notice https://exo-l-japan.smtown-fc.jp/article/1769 ; Yonhap on the 2026 album lineup https://en.yna.co.kr/view/AEN20260119002200315 ; Weverse 2026 Seoul lineup https://weverse.io/exo/notice/33570?hl=ko
+
+MEMBER NAMES AND SELECTED SOLO WORK
+Suho's given name is Kim Jun-myeon. His solo EPs include Self-Portrait (2020), Grey Suit (2022), and 1 to 3 (2024). He has also worked in acting and musical theatre.
+
+Xiumin's given name is Kim Min-seok. He is a singer and actor, a member of EXO-CBX, and released the solo mini-album Brand New in 2022. He was the first EXO member to enter mandatory military service, in May 2019.
+
+Lay's Chinese name is Zhang Yixing. His solo releases include Lose Control (2016), Lay 02 Sheep (2017), Namanana (2018), and Lit (2020). Lay's solo career and occasional EXO participation are both part of his career.
+
+Baekhyun is a vocalist, solo artist, and member of EXO-CBX. His solo EPs include City Lights (2019), Delight (2020), and Bambi (2021). His Japanese mini-album Baekhyun was released in 2021.
+
+Chen's given name is Kim Jong-dae. He is a vocalist and member of EXO-CBX. His solo releases include April, and a Flower (2019), Dear My Dear (2019), Last Scene (2022), and the Japanese mini-album Polaris (2023).
+
+Chanyeol is a rapper, vocalist, songwriter, and actor. His solo mini-album Black Out was released in 2024. With Sehun, he forms EXO-SC.
+
+D.O. is the stage name of singer and actor Doh Kyung-soo. His solo releases include Empathy (2021), Expectation (2023), and Blossom (2024). The Korean Film Council profile documents his acting credits, including the film Cart. His personal management arrangement changed after his SM contract ended, while he continued EXO activities.
+
+Kai's given name is Kim Jong-in. He is a singer, dancer, solo artist, and SuperM performer. His solo EPs include Kai (2020), Peaches (2021), and Rover (2023). He completed military service in February 2025.
+
+Sehun is EXO's youngest member and a rapper, dancer, and actor. He is the other member of EXO-SC. He completed military service in September 2025, the last EXO member to do so. An individual drama or solo profile does not prove participation in a particular EXO recording; use that recording's credits.
+
+Sources: Apple Music EXO catalog https://music.apple.com/us/artist/exo/657630070 ; Korean Film Council D.O. profile https://www.koreanfilm.or.kr/eng/films/index/peopleView.jsp?peopleCd=20209526 ; EXO Japan discography / Polaris https://www.exo-jp.net/en/discography/index.php?c=album&page=1 ; Yonhap on REVERXE and military completion https://en.yna.co.kr/view/AEN20260119002200315
+
+FORMER MEMBERS AND LEGAL HISTORY
+Kris (also known as Wu Yifan or Kris Wu) filed a contract lawsuit against SM in May 2014 and stopped EXO activities. In 2016, SM and Kris reached a court-mediated settlement concerning his contract. The arrangement allowed the contract relationship to continue on specified terms until its stated expiry while he pursued work outside EXO; it was not a return to group promotions.
+
+Luhan filed a lawsuit against SM in October 2014 and stopped EXO activities. He and SM reached a court-mediated settlement in 2016. Like Kris, he did not return to EXO group promotions. A settlement about contract terms should not be described as a reunion.
+
+Tao's conflict developed after he ceased group activities in 2015 and filed a lawsuit seeking contract invalidation. In March 2018, South Korea's Supreme Court dismissed his final appeal, leaving earlier rulings against him in place. His absence from EXO promotions came before that final ruling.
+
+Kris Wu later faced a separate criminal case in China, unrelated to EXO's contract cases. In November 2022, a Beijing court convicted him of rape and other offenses and sentenced him to 13 years in prison. This is an individual criminal case after his EXO career, not a case against EXO as a group.
+
+Chen, Baekhyun, and Xiumin, collectively EXO-CBX, had a contractual dispute with SM beginning in 2023. They announced contract termination notices and raised concerns about contract duration and access to settlement calculations; SM disputed their claims. The parties later entered arrangements for individual activities through a separate company while group activity remained possible under separate terms.
+
+A later SM-CBX lawsuit concerned performance of that agreement and a disputed 10 percent payment from individual activities. Mediation failed in October 2025 and the case returned to court proceedings. Statements made by either side should be attributed to the side making them, not treated as established court findings.
+
+In September 2026, Chen, Baekhyun, and Xiumin asked a Seoul court to suspend their exclusive contracts with INB100 amid an unpaid-settlements dispute with that company. A court later granted a preliminary injunction temporarily suspending the contracts while the underlying case remained unresolved. This INB100 dispute is separate from the CBX-SM case. The injunction is an interim order, not a final judgment resolving the claims.
+
+Sources: Yonhap on Tao's final appeal https://en.yna.co.kr/view/AEN20180320007300315 ; Soompi on Kris and Luhan settlements https://www.soompi.com/article/878627wpp/kris-and-luhan-settle-with-sm-entertainment-agencys-reps-release-statementWhere ; Reuters report on the 2022 criminal case https://hk.news.yahoo.com/china-sentences-canadian-pop-singer-082756720.html ; Yonhap on CBX's 2023 notices https://en.yna.co.kr/view/AEN20230601004552315 ; Korea JoongAng Daily on the INB100 court filing https://www.koreajoongangdaily.com/entertainment/exos-cbx-goes-to-court-to-break-with-its-agency/12862598 ; Chosun Biz on the preliminary injunction https://biz.chosun.com/en/en-entertainment/2026/09/15/TWRZS4KY6RGJPMXRLXBCJF6SMI/?outputType=amp
+
+KOREAN STUDIO ALBUMS
+XOXO, EXO's first full studio album, was released in June 2013 in Korean and Chinese editions. “Wolf” was the original title song; the repackage Growl added “Growl,” which became a signature song. Yonhap reported that XOXO and its repackage together exceeded one million copies sold in Korea in 2013. This is a combined total, not a claim that each version separately sold one million.
+
+EXODUS, the second studio album, was released in March 2015. Its promoted songs included “Call Me Baby” and “Love Me Right.” The repackage Love Me Right followed in June 2015. This release period came after Kris and Luhan stopped participating and before Tao's legal case concluded.
+
+EX'ACT, the third studio album, was released in June 2016 with title tracks “Lucky One” and “Monster.” In EXO's Korean studio-album chronology, EX'ACT was followed by The War in July 2017. The repackage LOTTO followed in August 2016 and promoted “Lotto.” Other tracks include “Artificial Love,” “Heaven,” “White Noise,” and “Stronger.”
+
+The War, the fourth studio album, was released in July 2017, led by “Ko Ko Bop.” The September repackage The Power of Music included “Power” and other new songs. It also contains “The Eve,” “Forever,” and “Sweet Lies.” The War and its repackage have different release dates.
+
+Don't Mess Up My Tempo, EXO's fifth studio album, was released in November 2018 with “Tempo” as its title track. The Korean edition contains nine tracks; the Chinese edition includes Lay. The December repackage Love Shot added its title track “Love Shot” and retained songs such as “Tempo,” “Ooh La La La,” and “Gravity.”
+
+Obsession is EXO's sixth studio album, released in November 2019. The title track is “Obsession.” Xiumin and D.O. were serving in the military and Lay did not participate in this release, so its recording lineup was not all members of the historical group roster. The album concept features EXO and an opposing alter-ego called X-EXO.
+
+EXIST, the seventh studio album, was released 10 July 2023. “Cream Soda” is its lead single. The nine-track album includes “Let Me In,” “Hear Me Out,” “Regret It,” and “Private Party.” A nine-track album does not mean that every member in the historical roster took part; use the credits and event-specific announcements.
+
+REVERXE, the eighth studio album, was released 19 January 2026. It has nine tracks and is led by “Crown.” The track list is “Crown,” “Back It Up,” “Crazy,” “Suffocate,” “Moonlight Shadows,” “Back Pocket,” “Touch & Go,” “Flatline,” and “I'm Home.” The six participants were Suho, Chanyeol, D.O., Kai, Sehun, and Lay. Chen, Baekhyun, and Xiumin did not participate amid the ongoing contract dispute with SM.
+
+Sources: Yonhap on XOXO sales https://en.yna.co.kr/view/AEN20131227002300315 ; Apple Music albums XOXO https://music.apple.com/us/album/the-1st-album-xoxo/980274346 , EXODUS https://music.apple.com/us/album/the-2nd-album-exodus/979878364 , EX'ACT https://music.apple.com/us/album/exact-the-3rd-album/1121473062 , The War https://music.apple.com/us/album/the-war-the-4th-album/1260294767 , Obsession https://music.apple.com/us/album/obsession-the-6th-album/1488308374 , EXIST https://music.apple.com/us/album/exist-the-7th-album/1695833432 ; SMTOWN REVERXE page https://global.shop.smtown.com/products/the-8th-album-reverxe-ex-vision-ver-smart-album ; Yonhap REVERXE report https://en.yna.co.kr/view/AEN20260119002200315
+
+EPs, WINTER ALBUMS, AND REPACKAGES
+MAMA is EXO's debut mini-album and was released in Korean and Mandarin versions in April 2012. EXO-K and EXO-M each had a language version; “MAMA” is both the album and title-track name.
+
+Overdose is EXO's second mini-album, released in May 2014. Its title track is “Overdose.” The release followed Kris's lawsuit and departure from activities, and preceded Luhan's lawsuit in October 2014.
+
+For Life is an EXO winter special mini-album released in December 2016. Its title track is “For Life.” It is a seasonal mini-album, not one of the numbered studio albums.
+
+Universe is a winter special album released in December 2017 in Korean and Mandarin versions. “Universe” is the title track. For Life and Universe are distinct winter releases, not studio-album repackages.
+
+Five major Korean studio albums received repackages: XOXO became Growl; EXODUS became Love Me Right; EX'ACT became LOTTO; The War became The Power of Music; and Don't Mess Up My Tempo became Love Shot. A repackage retains most of a parent album while adding songs and often promoting a new title track.
+
+Don't Fight the Feeling is a special album released in June 2021, not EXO's eighth numbered studio album. It contains the title track “Don't Fight the Feeling.” Xiumin, Baekhyun, Chanyeol, D.O., Kai, Sehun, and Lay participated, including Lay's return to an EXO group release after several years.
+
+Sources: Apple Music MAMA Korean edition https://music.apple.com/us/album/mama-the-1st-mini-album-ep/854917291 and Mandarin edition https://music.apple.com/us/album/mama-the-1st-mini-album-ep/854942041 ; Apple Music EXO catalog https://music.apple.com/us/artist/exo/657630070 ; EXO Japan discography https://www.exo-jp.net/en/discography/index.php?c=album&page=2
+
+ALBUM AND SONG CHRONOLOGY
+The Korean numbered studio-album sequence is XOXO (2013), EXODUS (2015), EX'ACT (2016), The War (2017), Don't Mess Up My Tempo (2018), Obsession (2019), EXIST (2023), and REVERXE (2026). EX'ACT was followed in the numbered studio-album sequence by The War. The release gaps matter: after Obsession, EXO released the special album Don't Fight the Feeling in 2021 before returning with EXIST in 2023.
+
+A useful title-track timeline is “MAMA” (2012); “Wolf” and “Growl” (2013); “Overdose” (2014); “Call Me Baby” and “Love Me Right” (2015); “Monster,” “Lucky One,” and “Lotto” (2016); “Ko Ko Bop” and “Power” (2017); “Tempo” and “Love Shot” (2018); “Obsession” (2019); “Don't Fight the Feeling” (2021); “Cream Soda” (2023); and “Crown” (2026).
+
+When asking what came after The War, specify the type of release. The next winter album was Universe in December 2017; the first Japanese studio album COUNTDOWN came in January 2018; the next Korean numbered studio album was Don't Mess Up My Tempo in November 2018. Asking only for “the next album” could mean any of these.
+
+Sources: Apple Music EXO catalog https://music.apple.com/us/artist/exo/657630070 ; official EXO Japan discography https://www.exo-jp.net/en/discography/index.php?c=album&page=2 ; SMTOWN REVERXE page https://global.shop.smtown.com/products/the-8th-album-reverxe-ex-vision-ver-smart-album
+
+EXO-CBX
+EXO-CBX is EXO's first official subunit. Its members are Chen, Baekhyun, and Xiumin; its name combines their names. The unit debuted in Korea in 2016 with the mini-album Hey Mama! and title song “Hey Mama!”
+
+EXO-CBX released the Korean mini-album Blooming Days in 2018, led by “Blooming Day.” Its Japanese albums include Girls (2017) and Magic (2018). Magic was released in May 2018 and contains eleven songs.
+
+EXO-CBX activity, each member's solo work, and main-group EXO participation are related but distinct. Contract disputes involving CBX should not be confused with a change in subunit membership or with the main EXO historical roster.
+
+Sources: SMTOWN official Hey Mama! page https://smtownandstore.com/product/exo-cbx-the-1st-mini-album-hey-mama/2561/category/1531/display/1/ ; EXO Japan discography https://www.exo-jp.net/en/discography/index.php?c=album&page=2 ; KBS World profile https://world.kbs.co.kr/service/contents_view.htm?board_seq=352301&lang=e&menu_cate=artist
+
+EXO-SC
+EXO-SC is the EXO subunit of Sehun and Chanyeol. Its name combines their stage names. The unit debuted in 2019 with the mini-album What a Life, which features the two members' rap and vocal work.
+
+EXO-SC released the studio album 1 Billion Views in July 2020. “1 Billion Views,” featuring Moon, is the title track. The album also includes “Telephone” and “Nothin'.” EXO-SC's unit catalog is separate from solo albums by Chanyeol or Sehun and from EXO's main-group albums.
+
+Sources: KBS World profile https://world.kbs.co.kr/service/contents_view.htm?board_seq=352301&lang=e&menu_cate=artist ; The Korea Times on the unit https://www.koreatimes.co.kr/entertainment/k-pop/20200714/exo-members-prove-worth-with-solo-subunit-gigs-amid-group-hiatus
+
+JAPANESE DISCOGRAPHY
+EXO made its Japanese debut in November 2015 with the single Love Me Right ~romantic universe~. EXO Japan reports that it entered the Oricon chart at No. 1. The official profile also describes early EXO solo concerts at Tokyo Dome and Kyocera Dome Osaka as a milestone for an international male artist.
+
+Coming Over, released in December 2016, was EXO's second Japanese single. It should not be confused with COUNTDOWN, the later Japanese studio album that includes “Coming Over” along with new songs.
+
+COUNTDOWN is EXO's first Japanese studio album, released on 31 January 2018. It contains ten songs, led by “Electric Kiss,” and includes Japanese versions of Love Me Right and Coming Over. EXO Japan describes COUNTDOWN as a Japan-original album and reports that it debuted at No. 1 on Oricon's weekly album chart.
+
+The Japanese single BIRD was released in November 2019. Official Japanese discography also lists member and unit releases, including Baekhyun's Japanese mini-album Baekhyun (2021), Chen's Polaris (2023), and EXO-CBX albums Girls and Magic.
+
+Japanese versions can carry distinct release titles. When asked for EXO's Japanese debut song or single, the precise release is Love Me Right ~romantic universe~, not just the Korean title Love Me Right.
+
+Sources: EXO Japan official profile https://www.exo-jp.net/en/profile/ ; COUNTDOWN official special site https://www.exo-jp.net/special/countdown/ ; EXO Japan discography singles https://www.exo-jp.net/en/discography/index.php?c=single&page=1 and albums https://www.exo-jp.net/en/discography/index.php?c=album&page=1
+
+TOURS AND LIVE EVENTS
+EXO's named concert tours include EXO FROM. EXOPLANET #1 - THE LOST PLANET, EXO PLANET #2 - The EXO'luXion, EXO PLANET #3 - The EXO'rDIUM, EXO PLANET #4 - The ElyXiOn, EXO PLANET #5 - EXplOration, and EXO PLANET #6 - EXhOrizon. Promotional typography varies; those are common searchable spellings.
+
+The 2026 EXO PLANET #6 - EXhOrizon tour was announced with stops in Seoul, Ho Chi Minh City, Nagoya, Taipei, Bangkok, Macau, Osaka, Jakarta, Hong Kong, Kuala Lumpur, Manila, Tokyo, Kaohsiung, and Singapore. The itinerary is what the announcement listed; an announcement alone does not establish that each later date occurred as originally scheduled.
+
+An official 2026 Seoul concert notice named Suho, Chanyeol, D.O., Kai, and Sehun as participants. This five-member announced concert lineup differs from the six-member REVERXE recording lineup, which included Lay. It is an event-specific participation list and does not mean EXO's historical group roster contains five members.
+
+EXO performed at the closing ceremony of the PyeongChang 2018 Winter Olympics. Their set included “Growl” and “Power.” This was a ceremony appearance, not one of the numbered EXO Planet tours.
+
+Sources: EXO Japan schedule https://www.exo-jp.net/en/schedule/?c=2&page=&year= ; official Weverse EXhOrizon announcement https://weverse.io/exo/notice/33437 ; Seoul lineup notice https://weverse.io/exo/notice/33570?hl=ko ; Olympics official video https://www.youtube.com/watch?v=4cnMJ-qqlGU
+
+AWARDS AND MILESTONES
+EXO's XOXO and its repackage Growl together exceeded one million domestic sales in 2013, according to Yonhap reporting on figures from SM Entertainment. This is a combined figure for the original album and repackage, not one million for each separate version. Contemporary reporting described it as the first million-selling Korean album in twelve years.
+
+EXO won MAMA Album of the Year for XOXO in 2013, Overdose in 2014, EXODUS in 2015, EX'ACT in 2016, and The War in 2017. The five-year run is often described as five consecutive Album of the Year wins. Official MAMA archive pages list historical winners, though some year pages rely on dynamic content that does not display in every browser.
+
+EXO's Japanese debut single Love Me Right ~romantic universe~ entered Oricon at No. 1, and the first Japanese album COUNTDOWN also debuted at No. 1 on Oricon's weekly album chart, according to EXO Japan. Those are distinct chart claims about a single and an album.
+
+Sources: Yonhap XOXO sales https://en.yna.co.kr/view/AEN20131227002300315 ; MAMA official winners 2013 https://mama.mnetplus.world/history/2013/winners , 2014 https://mama.mnetplus.world/history/2014/winners , 2015 https://mama.mnetplus.world/history/2015/winners , 2016 https://mama.mnetplus.world/history/2016/winners , 2017 https://mama.mnetplus.world/history/2017/winners ; Soompi on the 2017 award https://www.soompi.com/article/1087729wpp/exo-wins-album-year-record-breaking-5th-year-row-2017-mnet-asian-music-awards-mama ; EXO Japan profile https://www.exo-jp.net/en/profile/
+
+FANDOM
+EXO's official fandom is called EXO-L, commonly expanded as EXO-Love. “L” is between K and M in the EXO-K / EXO-M naming concept. EXO's official fan club opened in August 2014.
+
+EXO-L-JAPAN is the official Japan fan club. EXO also uses the official Weverse community for membership information, fan notices, album announcements, and event notices. A fan-community notice is a primary source for what the company announced, not a court finding or proof that an announced future event later happened.
+
+Sources: Soompi on EXO-L https://www.soompi.com/article/636587wpp/exo-to-open-official-fan-club-exo-l ; Weverse EXO notice https://weverse.io/exo/notice/29830 ; EXO-L-JAPAN https://exo-l-japan.smtown-fc.jp/article/1769
+
+MILITARY SERVICE TIMELINE
+EXO's members completed South Korean military service over the period 2019–2025. Xiumin began in May 2019 and was discharged in December 2020. D.O. enlisted in July 2019 and was discharged on 25 January 2021. Suho began service in May 2020 and was discharged on 13 February 2022 after alternative service.
+
+Chen enlisted in October 2020 and was discharged in April 2022. Chanyeol enlisted in March 2021 and was discharged in September 2022. Baekhyun began service in May 2021 and completed it in February 2023. Their individual service periods overlapped, so no one date describes the whole group hiatus.
+
+Kai started service on 11 May 2023 and was discharged on 10 February 2025. Sehun began in December 2023 and completed service on 20 September 2025. Sehun was the last EXO member to complete service. Yonhap reported in January 2026 that all members had completed service before the group resumed public activities.
+
+Sources: The Korea Times on D.O. https://www.koreatimes.co.kr/amp/entertainment/k-pop/20210125/exos-do-discharged-from-military-service ; The Korea Times on Suho https://www.koreatimes.co.kr/amp/entertainment/k-pop/20220213/exos-suho-discharged-from-alternative-military-service ; Soompi on Xiumin's announced discharge date https://www.soompi.com/article/1439506wpp/sm-confirms-exos-xiumin-is-on-final-break-from-military-will-be-discharged-without-returning-to-army-base ; Yonhap on 2026 activity https://en.yna.co.kr/view/AEN20260119002200315 ; The Korea Times on reunion plans https://www.koreatimes.co.kr/entertainment/k-pop/20251027/exo-to-reunite-after-all-members-complete-military-service ; EXO history reference https://en.wikipedia.org/wiki/Exo
+
+RETRIEVAL AMBIGUITIES AND ANSWER GUIDANCE
+“Who are the EXO members?” is ambiguous without a date or event. A grounded answer can name the post-departure nine-member historical roster and then state the lineup for the particular album or concert being discussed. REVERXE had six participants; the announced Seoul concert lineup had five.
+
+“Who left EXO?” usually refers to Kris, Luhan, and Tao, who stopped group activities after legal disputes with SM. Do not group Lay with them solely because he worked mainly in China or his SM contract ended; Lay participated in REVERXE in 2026.
+
+“What came after The War?” depends on what counts as an album. Universe was the next winter release in December 2017; COUNTDOWN was the next Japanese studio album in January 2018; Don't Mess Up My Tempo was the next Korean numbered studio album in November 2018. “What came after Obsession?” can refer to the 2021 special album Don't Fight the Feeling, while EXIST was the next Korean numbered studio album.
+
+“Who is in EXO-CBX?” means Chen, Baekhyun, and Xiumin. “Who is in EXO-SC?” means Sehun and Chanyeol. Subunit membership does not mean a member is no longer in the main group.
+
+“Did CBX leave EXO?” cannot be resolved by one lawsuit headline. They remained associated with EXO and EXO-CBX, but did not take part in the January 2026 album and related scheduled activities amid a dispute with SM. In September 2026 they separately challenged their contracts with INB100. The INB100 interim injunction is not the same court case as the SM dispute.
+
+“Are EXO's superpowers real?” No. Planetary origins and powers are fictional promotional concepts in music videos and album storytelling.
+
+Sources: KBS World artist history https://world.kbs.co.kr/service/contents_view.htm?board_seq=352301&lang=e&menu_cate=artist ; Yonhap on the 2026 release lineup https://en.yna.co.kr/view/AEN20260119002200315 ; Korea JoongAng Daily on CBX-INB100 https://www.koreajoongangdaily.com/entertainment/exos-cbx-goes-to-court-to-break-with-its-agency/12862598 ; Weverse tour notices https://weverse.io/exo/notice/33437 and https://weverse.io/exo/notice/33570?hl=ko
+
+SOURCE AND MAINTENANCE POLICY
+Sources are listed for verification and future updates. Official EXO, SM, EXO Japan, Weverse, and awards pages support releases, events, and official notices. Yonhap, The Korea Times, Korea JoongAng Daily, and other named reporting provide independent coverage of history, sales, legal matters, and military service. Apple Music is used as a structured release and track-list reference.
+
+This corpus contains original summaries rather than copied articles. It excludes lyrics, interview transcripts, rumors, unverified private-life claims, and speculative fan theories. Discography details and legal arrangements may change, so check the stated dates and the latest official release credits or court reporting before treating this file as current after its research cutoff.
+
+Sources: EXO Japan official profile https://www.exo-jp.net/en/profile/ ; SMTOWN REVERXE page https://global.shop.smtown.com/products/the-8th-album-reverxe-ex-vision-ver-smart-album ; Yonhap https://en.yna.co.kr/view/AEN20260119002200315 ; KBS World https://world.kbs.co.kr/service/contents_view.htm?board_seq=352301&lang=e&menu_cate=artist

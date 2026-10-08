@@ -1,0 +1,38 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python bytecode and local tooling caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local model and download caches
+.cache/
+.hf_cache/
+hf_cache/
+huggingface_cache/
+model_cache/
+model-cache/
+transformers_cache/
+models/
+*.safetensors
+*.pth
+*.onnx
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local backups should not be deployed as knowledge-base documents
+data/*.backup
+data/*.bak
