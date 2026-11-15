@@ -1,3 +1,6 @@
+<p align="center"><strong>A transparent, local-first semantic retrieval demo that shows which knowledge-base passages match a question.</strong></p>
+<p align="center"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" /> <img alt="Sentence Transformers" src="https://img.shields.io/badge/Embeddings-Sentence--Transformers-5B8C5A" /> <img alt="Model" src="https://img.shields.io/badge/Model-all--MiniLM--L6--v2-6A5ACD" /></p>
+
 # RAG Assistant, Cookie
 
 A beginner-friendly document retrieval demo. Ask a question in the browser and see which passages from the knowledge base are most relevant.
@@ -57,6 +60,21 @@ For a single retrieval query:
 ~~~powershell
 .\.venv\Scripts\python.exe src\main.py search "Which members were in EXO-M?"
 ~~~
+
+## Retrieval architecture
+
+~~~mermaid
+flowchart TD
+  D[TXT and Markdown knowledge base] --> C[Chunking with overlap]
+  C --> E[all-MiniLM-L6-v2 embeddings]
+  Q[User query] --> QE[Query embedding]
+  E --> S[Cosine similarity search]
+  QE --> S
+  S --> TOP[Top matching passages]
+  TOP --> UI[Streamlit results with source and score]
+~~~
+
+This is a retrieval-only demonstration. It intentionally does not call an LLM to generate an answer, so users can inspect the retrieved evidence directly.
 
 ## How retrieval works
 
